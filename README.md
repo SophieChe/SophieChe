@@ -1,7 +1,7 @@
 Hi everyone!<br>
 **I'm Sofiya - I'm interested in Java and want to become Java developer.**<br>
 
-**What I am learning:**<br>
+**What I am learning and have experience:**<br>
 * Java, Spring Boot, Hibernate<br>
 * RESTful API development<br>
 * Basics of database management (MySQL)<br>
@@ -20,11 +20,5 @@ ________________________________________
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original-wordmark.svg" width="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" width="45" />
 
-________________________________________
-**My projects:**<br>
-* project 1<br>
-* project 2<br>
-Now I am working on a project to develop the server-side of an application for calculating premiums for travel insurance risks.<br>
-* You can see the project
-  [here]()
+
 
