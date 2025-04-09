@@ -6,6 +6,12 @@ Hi everyone!<br>
 * RESTful API development<br>
 * Basics of database management (MySQL)<br>
 * Testing (JUnit, Mockito)<br>
+
+**My projects:**<br>
+*
+Now I am working on a project to develop the server-side of an application for calculating premiums for travel insurance risks.<br>
+* You can see the project
+  [here](https://github.com/SophieChe/CRMbeauty)
 ________________________________________
 🛠️ **Languages and Tools :**
 <br>
