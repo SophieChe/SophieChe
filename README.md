@@ -8,7 +8,7 @@ Hi everyone!<br>
 * Testing (JUnit, Mockito)<br>
 
 **My projects:**<br>
-you can find my projects in repositories, but the last that I am working on:
+you can find my projects in repositories, but the last two that I am currently working on can be found at the following links:
 * [project to develop the server-side of an application for calculating premiums for travel insurance risks](https://github.com/SophieChe/Insurance).<br>
 * [CRM project](https://github.com/SophieChe/CRMbeauty)
 ________________________________________
