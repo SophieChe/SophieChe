@@ -8,8 +8,8 @@ Hi everyone!<br>
 * Testing (JUnit, Mockito)<br>
 
 **My projects:**<br>
-* you can find my projects in repositories, but the last that I am working on:
-  [project to develop the server-side of an application for calculating premiums for travel insurance risks]().<br>
+you can find my projects in repositories, but the last that I am working on:
+* [project to develop the server-side of an application for calculating premiums for travel insurance risks](https://github.com/SophieChe/Insurance).<br>
 * [CRM project](https://github.com/SophieChe/CRMbeauty)
 ________________________________________
 🛠️ **Languages and Tools :**
