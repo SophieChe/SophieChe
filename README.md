@@ -9,15 +9,16 @@ Hi everyone!<br>
 * Testing: JUnit, Mockito, Testcontainers, Postman<br>
 * Tools: Jira, Confluence<br>
 
-**Education
-* Voronezh State University
-* Economics — Bachelor’s (2008–2012), Master’s (2012–2014)
+**Education**<br>
+* Voronezh State University<br>
+  Economics — Bachelor’s (2008–2012), Master’s (2012–2014)
 
-* Bauman Moscow State Technical University (BMSTU)
-* Information Systems and Telecommunications — Bachelor’s (2025–2028)
+* Bauman Moscow State Technical University (BMSTU)<br>
+  Information Systems and Telecommunications — Bachelor’s (2025–2028)
 
-**Additional education
-*JavaRush (2023), FAANG School Java Bootcamp (2025)
+**Additional education**<br>
+*JavaRush (2023)<br>
+*FAANG School Java Bootcamp (2025)<br>
 
 **My projects:**<br>
 you can find my projects in repositories, but the last two that I am currently working on can be found at the following links:
