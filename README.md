@@ -4,7 +4,7 @@ Hi everyone!<br>
 **What I am learning and have experience:**<br>
 * Backend: Java 11, 17, Spring (Boot, MVC, Data, AOP, Cloud), Hibernate, SLF4J, Lombok<br>
 * Databases & Migrations: PostgreSQL, H2, SQL, Liquibase<br>
-* Architecture: Redis, Apache Kafka<br>
+* Architecture: Microservices, Redis, Apache Kafka<br>
 * Infrastructure & DevOps: Docker, Maven, Gradle, GitLab/GitHub<br>
 * Testing: JUnit, Mockito, Testcontainers, Postman<br>
 * Tools: Jira, Confluence<br>
