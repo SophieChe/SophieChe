@@ -1,5 +1,5 @@
 Hi everyone!<br>
-**I'm Sofiya - I'm interested in Java and want to become Java developer.**<br>
+**I'm Sofiya - I'm interested in Java and I am on my way to becoming a software engineer.**<br>
 
 **What I am learning and have experience:**<br>
 * Java, Spring Boot, Hibernate<br>
