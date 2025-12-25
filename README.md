@@ -2,10 +2,12 @@ Hi everyone!<br>
 **I'm Sofiya - I'm interested in Java and I am on my way to becoming a software engineer.**<br>
 
 **What I am learning and have experience:**<br>
-* Java, Spring Boot, Hibernate<br>
-* RESTful API development<br>
-* Basics of database management (MySQL)<br>
-* Testing (JUnit, Mockito)<br>
+* Backend: Java 11, 17, Spring (Boot, MVC, Data, AOP, Cloud), Hibernate, SLF4J, Lombok<br>
+* Databases & Migrations: PostgreSQL, H2, SQL, Liquibase<br>
+* Architecture: Redis, Apache Kafka<br>
+* Infrastructure & DevOps: Docker, Maven, Gradle, GitLab/GitHub<br>
+* Testing: JUnit, Mockito, Testcontainers, Postman<br>
+* Tools: Jira, Confluence<br>
 
 **My projects:**<br>
 you can find my projects in repositories, but the last two that I am currently working on can be found at the following links:
