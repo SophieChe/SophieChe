@@ -20,9 +20,9 @@ Hi everyone!<br>
 JavaRush (2023), FAANG School Java Bootcamp (2025)<br>
 
 **My projects:**<br>
-you can find my projects in repositories, but the last two that I am currently working on can be found at the following links:
-* [project to develop the server-side of an application for calculating premiums for travel insurance risks](https://github.com/SophieChe/Insurance).<br>
-* [CRM project](https://github.com/SophieChe/CRMbeauty)
+You can find all my projects in my repositories. The main project, URL Shortener Service, can be found at the following link:
+* [High-performance URL shortener with hash pre-generation, caching and reuse strategy](https://github.com/SophieChe/Url-shortener).<br>
+
 ________________________________________
 🛠️ **Languages and Tools :**
 <br>
