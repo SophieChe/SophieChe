@@ -17,8 +17,7 @@ Hi everyone!<br>
   Information Systems and Telecommunications — Bachelor’s (2025–2028)
 
 **Additional education**<br>
-*JavaRush (2023)<br>
-*FAANG School Java Bootcamp (2025)<br>
+JavaRush (2023), FAANG School Java Bootcamp (2025)<br>
 
 **My projects:**<br>
 you can find my projects in repositories, but the last two that I am currently working on can be found at the following links:
